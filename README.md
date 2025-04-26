@@ -1,6 +1,8 @@
-# 👨‍💻 Derlin R. Valera Peguero
+# 👨‍💻 Derlin R. Valera / Estudiante de Ing. de Software
 
-**Software Engineer | Desarrollador Backend | Java | Spring Boot | Microservicios | PostgreSQL | Docker | Git y GitHub**
+---
+
+**Software Engineer | Desarrollador Backend | Java | Spring Boot | Microservicios | PostgreSQL | SQL Server | Docker | Git y GitHub**
 
 ---
 
@@ -19,40 +21,43 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📁 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-<div align="center">
+### 📝 API de Microservicios para Blog
 
-<!-- Proyecto 1 -->
-<a href="https://github.com/Derlin-Dev/api-microservices-blogs.v2" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=api-microservices-blogs.v2s&theme=dark" />
-</a>
+[![api-microservices-blogs.v2](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=api-microservices-blogs.v2&theme=github_dark&hide_border=true)](https://github.com/Derlin-Dev/api-microservices-blogs.v2)
 
-<!-- Proyecto 2 -->
-<a href="https://github.com/derlinrp/sistema-de-archivos" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=derlinrp&repo=sistema-de-archivos&theme=dark" />
-</a>
+> Plataforma backend para blogs personales desarrollada con Spring Boot y arquitectura de microservicios.  
+> Incluye autenticación con JWT, API Gateway, y gestión de usuarios, posts y comentarios.
 
-<!-- Proyecto 3 -->
-<a href="https://github.com/derlinrp/microservicios-demo" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=derlinrp&repo=microservicios-demo&theme=dark" />
-</a>
+### 📝 API de Microservicios para Lista de Tareas
 
-</div>
+[![Backend_ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=Backend_ToDoList&theme=github_dark&hide_border=true)](https://github.com/Derlin-Dev/Backend_ToDoList)
+
+> Plataforma para la gestion de lista de tareas desarrollada con Spring Boot y arquitectura de microservicios.  
+> Incluye autenticación con JWT y gestión de usuarios, agregar , elictar y eliminar tareas.
+
+### ☁️ API de Microservicios para Gestion de archivos
+
+[![Backend_ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=storefile--microservice&theme=github_dark&hide_border=true)](https://github.com/Derlin-Dev/storefile--microservice)
+
+> servicio RESTful desarrollado en Spring Boot que permite subir, descargar, listar, eliminar archivos y crear carpetas dentro de un directorio raíz configurable..  
 
 ---
 
 ## 🔗 Enlaces
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin) *(Reemplaza con tu enlace real)*
-- 🌐 [Portafolio](https://tu-portafolio.com) *(Opcional, si tienes uno)*
-- 📧 Email: tu.correo@ejemplo.com *(Reemplaza con tu correo si deseas compartirlo)*
+- 💼 [LinkedIn](www.linkedin.com/in/derlin-v-peguero)
+- 🌐 [Portafolio](https://derlin-dev.github.io/) 
+- 📧 Email: d.valerapeguero@gmail.com
 
 ---
 
