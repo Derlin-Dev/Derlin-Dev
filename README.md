@@ -1,4 +1,4 @@
-# 👨‍💻 Derlin R. Valera / Estudiante de Ing. de Software
+# Derlin R. Valera / Estudiante de Ing. de Software
 
 ---
 
