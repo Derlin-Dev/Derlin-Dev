@@ -32,22 +32,22 @@
 ## 🚀 Proyectos Destacados
 
 ### 📝 API de Microservicios para Blog
-
-[![api-microservices-blogs.v2](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=api-microservices-blogs.v2&theme=github_dark&hide_border=true)](https://github.com/Derlin-Dev/api-microservices-blogs.v2)
+blue
+[![api-microservices-blogs.v2](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=api-microservices-blogs.v2&theme=github_light&hide_border=true)](https://github.com/Derlin-Dev/api-microservices-blogs.v2)
 
 > Plataforma backend para blogs personales desarrollada con Spring Boot y arquitectura de microservicios.  
 > Incluye autenticación con JWT, API Gateway, y gestión de usuarios, posts y comentarios.
 
 ### 📝 API de Microservicios para Lista de Tareas
 
-[![Backend_ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=Backend_ToDoList&theme=github_dark&hide_border=true)](https://github.com/Derlin-Dev/Backend_ToDoList)
+[![Backend_ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=Backend_ToDoList&theme=github_light&hide_border=true)](https://github.com/Derlin-Dev/Backend_ToDoList)
 
 > Plataforma para la gestion de lista de tareas desarrollada con Spring Boot y arquitectura de microservicios.  
 > Incluye autenticación con JWT y gestión de usuarios, agregar , elictar y eliminar tareas.
 
 ### ☁️ API de Microservicios para Gestion de archivos
 
-[![Backend_ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=storefile--microservice&theme=github_dark&hide_border=true)](https://github.com/Derlin-Dev/storefile--microservice)
+[![Backend_ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=storefile--microservice&theme=github_light&hide_border=true)](https://github.com/Derlin-Dev/storefile--microservice)
 
 > servicio RESTful desarrollado en Spring Boot que permite subir, descargar, listar, eliminar archivos y crear carpetas dentro de un directorio raíz configurable..  
 
