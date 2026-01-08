@@ -16,6 +16,16 @@
 
 ---
 
+---
+
+## 🏅 Insignias & Certificaciones
+
+<a href="https://www.credly.com/badges/2b3a3c81-b4c7-4d84-be82-05c74ec19d57" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="160" alt="AWS Educate – Cloud Foundations"/>
+</a>
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
