@@ -24,6 +24,10 @@
   <img src="https://images.credly.com/size/340x340/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="160" alt="AWS Educate – Cloud Foundations"/>
 </a>
 
+<a href="https://www.credly.com/badges/6134b6b8-716d-40a3-ae47-c10e8c6d5865/public_url" target="_blank">
+  <img src="https://images.credly.com/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" width="160" alt="AWS Educate – Cloud Foundations"/>
+</a>
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
