@@ -61,9 +61,9 @@ blue
 
 ### ☁️ API de Microservicios para Gestion de archivos
 
-[![Backend_ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=storefile--microservice&theme=github_light&hide_border=true)](https://github.com/Derlin-Dev/storefile--microservice)
+[![Backend_File-service](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=storefile--microservice&theme=github_light&hide_border=true)](https://github.com/Derlin-Dev/storage-service)
 
-> servicio RESTful desarrollado en Spring Boot que permite subir, descargar, listar, eliminar archivos y crear carpetas dentro de un directorio raíz configurable..  
+> Microservicio RESTful con operaciones CRUD para archivos, autenticación JWT y un sistema de permisos de tres niveles (privado, protegido, público) para compartir recursos de forma granular.
 
 ---
 
