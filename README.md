@@ -52,12 +52,11 @@ blue
 > Plataforma backend para blogs personales desarrollada con Spring Boot y arquitectura de microservicios.  
 > Incluye autenticación con JWT, API Gateway, y gestión de usuarios, posts y comentarios.
 
-### 📝 API de Microservicios para Lista de Tareas
+### 🛒 API de Microservicios para E-comerce
 
-[![Backend_ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=Backend_ToDoList&theme=github_light&hide_border=true)](https://github.com/Derlin-Dev/Backend_ToDoList)
+[![Backend_E-comerce](https://github-readme-stats.vercel.app/api/pin/?username=Derlin-Dev&repo=Backend_ToDoList&theme=github_light&hide_border=true)](https://github.com/Derlin-Dev/E-Commerce)
 
-> Plataforma para la gestion de lista de tareas desarrollada con Spring Boot y arquitectura de microservicios.  
-> Incluye autenticación con JWT y gestión de usuarios, agregar , elictar y eliminar tareas.
+> Plataforma de E-comerce basada en arquitectura de micro-servicios.  
 
 ### ☁️ API de Microservicios para Gestion de archivos
 
