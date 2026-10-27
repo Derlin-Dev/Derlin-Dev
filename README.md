@@ -134,12 +134,20 @@ ubicacion: "República Dominicana 🇩🇴"
 
 ### 📊 Estadísticas de GitHub
 
+### 📊 Estadísticas de GitHub
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Derlin-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derlin-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Estadísticas generales -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Derlin-Dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estadísticas generales de GitHub" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Derlin-Dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<!-- Lenguajes detectados en los repositorios -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derlin-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Distribución de lenguajes de programación" />
+
+<br/><br/>
+
+<!-- Racha de contribuciones -->
+<img src="https://streak-stats.demolab.com/?user=Derlin-Dev&theme=tokyonight&hide_border=true" alt="Racha de contribuciones en GitHub" />
 
 </div>
 
